@@ -16,23 +16,5 @@
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Authentication (WorkOS AuthKit)",
-    "url": "https://auth.qado.ai",
-    "icon": "https://icons.duckduckgo.com/ip3/auth.qado.ai.ico",
-    "slug": "authentication-work-os-auth-kit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 346,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
-    "dailyMinutesDown": {}
   }
 ]
