@@ -2,22 +2,39 @@
 owner: qado-ai
 repo: status.qado.ai
 
+# All monitors use the platform health endpoints: HTTP 200 when healthy,
+# 503 when the checked component(s) are down (Upptime's default
+# expectedStatusCodes handle this). The healthz endpoint caches results
+# for 30s server-side; the default check frequency is fine.
+#
+# Monitor names are deliberately capability-oriented — never mention
+# vendor or product names anywhere on the public page.
 sites:
-  - name: qado Platform
+  - name: Web Application
     url: https://core.qado.ai/api-v2/health
-    expectedStatusCodes:
-      - 200
-  - name: Authentication (WorkOS AuthKit)
-    url: https://auth.qado.ai
-    expectedStatusCodes:
-      - 200
+  - name: Platform (All Systems)
+    url: https://core.qado.ai/api-v2/healthz
+  - name: Authentication & Login
+    url: https://core.qado.ai/api-v2/healthz?component=authentication
+  - name: Core Database
+    url: https://core.qado.ai/api-v2/healthz?component=core-database
+  - name: Knowledge Graph
+    url: https://core.qado.ai/api-v2/healthz?component=knowledge-graph
+  - name: Document Storage
+    url: https://core.qado.ai/api-v2/healthz?component=document-storage
+  - name: Document Analysis
+    url: https://core.qado.ai/api-v2/healthz?component=document-analysis
+  - name: AI Processing
+    url: https://core.qado.ai/api-v2/healthz?component=ai-processing
+  - name: Background Processing
+    url: https://core.qado.ai/api-v2/healthz?component=background-processing
 
 status-website:
   cname: status.qado.ai
   logoUrl: https://core.qado.ai/favicon.ico
   name: qado Status
   introTitle: "**qado** platform status"
-  introMessage: Live uptime and incident history for the qado platform ([core.qado.ai](https://core.qado.ai)) and its authentication provider. Monitored every 5 minutes via GitHub Actions.
+  introMessage: Live uptime and incident history for the qado platform ([core.qado.ai](https://core.qado.ai)) and its core capabilities. Monitored every 5 minutes via GitHub Actions.
   navbar:
     - title: Status
       href: /
@@ -26,4 +43,4 @@ status-website:
   theme: light
 
 # Incidents are GitHub Issues in this repo — label an issue with the site slug
-# (e.g. "qado-platform") plus "status" to surface it on the page.
+# (e.g. "web-application") plus "status" to surface it on the page.
