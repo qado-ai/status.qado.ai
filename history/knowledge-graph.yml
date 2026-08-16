@@ -1,7 +1,7 @@
 url: https://core.qado.ai/api-v2/healthz?component=knowledge-graph
 status: up
 code: 200
-responseTime: 497
-lastUpdated: 2026-08-15T23:02:16.697Z
+responseTime: 555
+lastUpdated: 2026-08-16T23:01:43.258Z
 startTime: 2026-07-16T14:16:16.455Z
 generator: Upptime <https://github.com/upptime/upptime>
