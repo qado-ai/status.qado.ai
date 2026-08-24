@@ -1,7 +1,7 @@
 url: https://core.qado.ai/api-v2/healthz?component=authentication
 status: up
 code: 200
-responseTime: 713
-lastUpdated: 2026-08-23T23:02:37.374Z
+responseTime: 489
+lastUpdated: 2026-08-24T23:04:17.580Z
 startTime: 2026-07-16T14:15:43.578Z
 generator: Upptime <https://github.com/upptime/upptime>
