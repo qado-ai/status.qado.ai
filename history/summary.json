@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "platform-all-systems",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.82%",
     "time": 968,
     "timeDay": 607,
     "timeWeek": 685,
@@ -39,8 +39,7 @@
       "2026-08-10": 23,
       "2026-08-17": 22,
       "2026-08-19": 16,
-      "2026-09-11": 18,
-      "2026-09-12": 8
+      "2026-09-11": 18
     }
   },
   {
