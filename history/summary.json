@@ -22,17 +22,17 @@
     "url": "https://core.qado.ai/api-v2/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "platform-all-systems",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.83%",
-    "time": 936,
-    "timeDay": 588,
-    "timeWeek": 638,
-    "timeMonth": 687,
-    "timeYear": 936,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.82%",
+    "time": 935,
+    "timeDay": 630,
+    "timeWeek": 649,
+    "timeMonth": 690,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2026-07-31": 57,
       "2026-08-09": 17,
@@ -40,7 +40,7 @@
       "2026-08-17": 22,
       "2026-08-19": 16,
       "2026-09-11": 18,
-      "2026-09-18": 0
+      "2026-09-18": 8
     }
   },
   {
