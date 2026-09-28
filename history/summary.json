@@ -13,7 +13,7 @@
     "time": 594,
     "timeDay": 376,
     "timeWeek": 577,
-    "timeMonth": 559,
+    "timeMonth": 561,
     "timeYear": 594,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 899,
     "timeDay": 665,
     "timeWeek": 718,
-    "timeMonth": 677,
+    "timeMonth": 678,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2026-07-31": 57,
@@ -58,7 +58,7 @@
     "time": 671,
     "timeDay": 495,
     "timeWeek": 615,
-    "timeMonth": 641,
+    "timeMonth": 646,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2026-09-18": 24
@@ -78,7 +78,7 @@
     "time": 532,
     "timeDay": 362,
     "timeWeek": 450,
-    "timeMonth": 486,
+    "timeMonth": 489,
     "timeYear": 532,
     "dailyMinutesDown": {}
   },
@@ -96,7 +96,7 @@
     "time": 550,
     "timeDay": 380,
     "timeWeek": 602,
-    "timeMonth": 548,
+    "timeMonth": 554,
     "timeYear": 550,
     "dailyMinutesDown": {}
   },
@@ -114,7 +114,7 @@
     "time": 518,
     "timeDay": 371,
     "timeWeek": 545,
-    "timeMonth": 501,
+    "timeMonth": 506,
     "timeYear": 518,
     "dailyMinutesDown": {}
   },
@@ -123,18 +123,20 @@
     "url": "https://core.qado.ai/api-v2/healthz?component=document-analysis",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "document-analysis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 417,
-    "timeWeek": 516,
-    "timeMonth": 520,
-    "timeYear": 567,
-    "dailyMinutesDown": {}
+    "time": 566,
+    "timeDay": 483,
+    "timeWeek": 519,
+    "timeMonth": 523,
+    "timeYear": 566,
+    "dailyMinutesDown": {
+      "2026-09-28": 0
+    }
   },
   {
     "name": "AI Processing",
@@ -150,7 +152,7 @@
     "time": 634,
     "timeDay": 425,
     "timeWeek": 705,
-    "timeMonth": 598,
+    "timeMonth": 600,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2026-07-29": 62,
@@ -172,7 +174,7 @@
     "time": 531,
     "timeDay": 1441,
     "timeWeek": 613,
-    "timeMonth": 546,
+    "timeMonth": 550,
     "timeYear": 531,
     "dailyMinutesDown": {}
   }
