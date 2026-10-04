@@ -1,7 +1,7 @@
 url: https://core.qado.ai/api-v2/healthz?component=document-storage
 status: up
 code: 200
-responseTime: 613
-lastUpdated: 2026-10-03T23:48:30.475Z
+responseTime: 535
+lastUpdated: 2026-10-04T23:01:01.023Z
 startTime: 2026-07-16T14:16:32.266Z
 generator: Upptime <https://github.com/upptime/upptime>
