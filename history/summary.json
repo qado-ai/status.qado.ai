@@ -22,17 +22,17 @@
     "url": "https://core.qado.ai/api-v2/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "platform-all-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.78%",
-    "time": 934,
-    "timeDay": 547,
-    "timeWeek": 1173,
-    "timeMonth": 882,
-    "timeYear": 934,
+    "time": 930,
+    "timeDay": 467,
+    "timeWeek": 1124,
+    "timeMonth": 872,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2026-07-31": 57,
       "2026-08-09": 17,
@@ -44,7 +44,8 @@
       "2026-09-23": 26,
       "2026-09-29": 17,
       "2026-10-07": 32,
-      "2026-10-08": 28
+      "2026-10-08": 28,
+      "2026-10-13": 0
     }
   },
   {
@@ -170,17 +171,19 @@
     "url": "https://core.qado.ai/api-v2/healthz?component=background-processing",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "background-processing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 371,
-    "timeWeek": 487,
-    "timeMonth": 495,
-    "timeYear": 519,
-    "dailyMinutesDown": {}
+    "time": 517,
+    "timeDay": 374,
+    "timeWeek": 473,
+    "timeMonth": 491,
+    "timeYear": 517,
+    "dailyMinutesDown": {
+      "2026-10-13": 0
+    }
   }
 ]
