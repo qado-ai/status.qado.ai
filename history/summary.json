@@ -129,20 +129,20 @@
     "url": "https://core.qado.ai/api-v2/healthz?component=document-analysis",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "document-analysis",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 568,
-    "timeDay": 263,
-    "timeWeek": 486,
-    "timeMonth": 566,
+    "timeDay": 341,
+    "timeWeek": 487,
+    "timeMonth": 564,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2026-09-28": 20,
-      "2026-11-02": 0
+      "2026-11-02": 9
     }
   },
   {
