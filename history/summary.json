@@ -22,17 +22,17 @@
     "url": "https://core.qado.ai/api-v2/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "platform-all-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.78%",
-    "time": 1036,
-    "timeDay": 1075,
-    "timeWeek": 1166,
-    "timeMonth": 1332,
-    "timeYear": 1036,
+    "time": 1033,
+    "timeDay": 845,
+    "timeWeek": 1126,
+    "timeMonth": 1319,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2026-07-31": 57,
       "2026-08-09": 17,
@@ -47,7 +47,8 @@
       "2026-10-08": 28,
       "2026-10-14": 21,
       "2026-10-25": 23,
-      "2026-10-26": 17
+      "2026-10-26": 17,
+      "2026-11-03": 1
     }
   },
   {
@@ -93,18 +94,20 @@
     "url": "https://core.qado.ai/api-v2/healthz?component=knowledge-graph",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "knowledge-graph",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 595,
-    "timeWeek": 516,
-    "timeMonth": 522,
+    "timeDay": 610,
+    "timeWeek": 530,
+    "timeMonth": 525,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-03": 0
+    }
   },
   {
     "name": "Document Storage",
@@ -151,9 +154,9 @@
     "slug": "ai-processing",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.85%",
     "time": 702,
     "timeDay": 1228,
@@ -168,8 +171,7 @@
       "2026-10-09": 22,
       "2026-10-15": 23,
       "2026-10-26": 24,
-      "2026-10-27": 16,
-      "2026-11-03": 9
+      "2026-10-27": 16
     }
   },
   {
