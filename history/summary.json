@@ -29,7 +29,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.78%",
     "time": 1036,
-    "timeDay": 1271,
+    "timeDay": 1075,
     "timeWeek": 1166,
     "timeMonth": 1332,
     "timeYear": 1036,
@@ -149,17 +149,17 @@
     "url": "https://core.qado.ai/api-v2/healthz?component=ai-processing",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "ai-processing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.85%",
-    "time": 703,
-    "timeDay": 2402,
-    "timeWeek": 720,
-    "timeMonth": 873,
-    "timeYear": 703,
+    "time": 702,
+    "timeDay": 1520,
+    "timeWeek": 714,
+    "timeMonth": 867,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2026-07-29": 62,
       "2026-09-23": 26,
@@ -168,7 +168,8 @@
       "2026-10-09": 22,
       "2026-10-15": 23,
       "2026-10-26": 24,
-      "2026-10-27": 16
+      "2026-10-27": 16,
+      "2026-11-03": 0
     }
   },
   {
