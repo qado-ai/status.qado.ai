@@ -22,17 +22,17 @@
     "url": "https://core.qado.ai/api-v2/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "platform-all-systems",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.79%",
-    "time": 1059,
-    "timeDay": 1513,
-    "timeWeek": 1439,
-    "timeMonth": 1353,
-    "timeYear": 1059,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.78%",
+    "time": 1081,
+    "timeDay": 2206,
+    "timeWeek": 1625,
+    "timeMonth": 1411,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2026-07-31": 57,
       "2026-08-09": 17,
@@ -48,7 +48,7 @@
       "2026-10-14": 21,
       "2026-10-25": 23,
       "2026-10-26": 17,
-      "2026-11-05": 1
+      "2026-11-05": 8
     }
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "core-database",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 530,
     "timeDay": 588,
     "timeWeek": 574,
     "timeMonth": 524,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2026-11-05": 0
+      "2026-11-05": 8
     }
   },
   {
