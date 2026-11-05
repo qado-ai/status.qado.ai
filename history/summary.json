@@ -76,19 +76,19 @@
     "url": "https://core.qado.ai/api-v2/healthz?component=core-database",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "core-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 538,
-    "timeDay": 730,
-    "timeWeek": 642,
-    "timeMonth": 549,
-    "timeYear": 538,
+    "time": 539,
+    "timeDay": 717,
+    "timeWeek": 643,
+    "timeMonth": 552,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-11-05": 23
+      "2026-11-05": 15
     }
   },
   {
