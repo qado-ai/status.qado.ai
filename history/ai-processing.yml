@@ -1,7 +1,7 @@
 url: https://core.qado.ai/api-v2/healthz?component=ai-processing
 status: up
 code: 200
-responseTime: 370
-lastUpdated: 2026-11-17T23:01:27.035Z
+responseTime: 516
+lastUpdated: 2026-11-18T23:01:25.560Z
 startTime: 2026-07-16T14:17:05.076Z
 generator: Upptime <https://github.com/upptime/upptime>
