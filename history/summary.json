@@ -24,14 +24,14 @@
     "slug": "platform-all-systems",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.75%",
     "time": 1101,
     "timeDay": 1393,
     "timeWeek": 1281,
-    "timeMonth": 1231,
+    "timeMonth": 1222,
     "timeYear": 1101,
     "dailyMinutesDown": {
       "2026-07-31": 57,
@@ -51,8 +51,7 @@
       "2026-11-05": 43,
       "2026-11-11": 16,
       "2026-11-16": 50,
-      "2026-11-18": 20,
-      "2026-11-26": 8
+      "2026-11-18": 20
     }
   },
   {
@@ -161,12 +160,12 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 699,
     "timeDay": 676,
     "timeWeek": 579,
-    "timeMonth": 733,
+    "timeMonth": 689,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2026-07-29": 62,
@@ -184,17 +183,19 @@
     "url": "https://core.qado.ai/api-v2/healthz?component=background-processing",
     "icon": "https://icons.duckduckgo.com/ip3/core.qado.ai.ico",
     "slug": "background-processing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
-    "timeDay": 651,
-    "timeWeek": 499,
+    "timeDay": 582,
+    "timeWeek": 501,
     "timeMonth": 495,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-26": 0
+    }
   }
 ]
